@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>dodolan</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="style-media.css">
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+</head>
+<body>
+  <div class="header">
+    <div class="container">
+      <div class="header-logo">
+        <h3>Testing</h3>
+      </div>
+      <div class="header-menu">
+        <a href="#main">View More</a>   
+      </div>
+    </div>
+  </div>
+  <div class="main" id="main">
+    <div class="container">
+      <div class="contents">
+        <div class="content">
+          <div class="menu">
+            <img src="media/seblak.jpg">
+          </div>
+          <div class="content-title">
+            <h3>Keripik Seblak</h3>
+          </div>
+          <div class="desc">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua.</p>
+          </div>
+        </div>
+        <div class="content">
+          <div class="menu">
+            <img src="media/pisang.jpg">
+          </div>
+          <div class="content-title">
+            <h3>Pisang Manis</h3>
+          </div>
+          <div class="desc">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua.</p>
+          </div>
+        </div>
+      </div>
+        <div class="contact">
+          <p>Contact Us to order</p>
+          <div class="contact-menu">
+            <a href="https://bit.ly/3ry6QR3" target="blank"><i class="fa fa-whatsapp icon"></i></a>
+            <a href="https://www.instagram.com/atsn.hnfh/" target="blank"><i class="fa fa-instagram icon"></i></a>
+          </div>
+        </div>
+    </div>
+  </div>
+</body>
+</html>
